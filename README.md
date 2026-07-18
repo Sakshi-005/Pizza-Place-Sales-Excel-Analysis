@@ -1,4 +1,4 @@
-##Analysis
+## Analysis
 A comprehensive excel data modeling and interactive dashboard project analyzing restaurant operational metrics.
 
 ## The Business Problem (The "Why"?)
