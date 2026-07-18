@@ -43,5 +43,7 @@ To build a scalable and professional analysis, the raw data structure was comple
 
 Below is a snapshot of the final interactive executive dashboard built completely inside Microsoft Excel. It features automated summary KPI cards, dynamic matrix breakdowns, and sorted trend charts.
 
+<img width="1892" height="907" alt="image" src="https://github.com/user-attachments/assets/40bdee63-872c-4ec4-8044-df3c50c600c6" />
+
 
 
