@@ -1,4 +1,4 @@
-<img width="1892" height="907" alt="image" src="https://github.com/user-attachments/assets/2625cc9a-c952-4b5e-937a-b2e86ae36294" /># Pizza-Place-Sales-Excel-Analysis
+##Analysis
 A comprehensive excel data modeling and interactive dashboard project analyzing restaurant operational metrics.
 
 ## The Business Problem (The "Why"?)
